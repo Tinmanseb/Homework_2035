@@ -1,2 +1,2 @@
 # Homework_2035
-How this is work?
+This is repository is for storing the task for project 2035
