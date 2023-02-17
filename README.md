@@ -4,3 +4,7 @@ This repository is for storing the tasks for the project 2035
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&vCenter=true&width=435&lines=%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0.;%D0%BA%D0%BE%D0%B4+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE%3A+%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+(2023)" alt="Typing SVG" /></a>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tinmanseb)](https://git.io/streak-stats)
